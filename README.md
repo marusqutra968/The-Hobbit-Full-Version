@@ -242,4 +242,4 @@ This repository serves as the official landing page for The Hobbit. The software
 **Get the most recent version of The Hobbit today!**
 
 ---
-**Last updated:** 2026-10-10 13:13:36 UTC
+**Last updated:** 2026-10-10 18:10:50 UTC
